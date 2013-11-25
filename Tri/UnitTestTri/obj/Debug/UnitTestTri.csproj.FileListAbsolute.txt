@@ -5,3 +5,10 @@ c:\Users\Loklok\documents\visual studio 2012\Projects\Tri\UnitTestTri\bin\Debug\
 c:\Users\Loklok\documents\visual studio 2012\Projects\Tri\UnitTestTri\obj\Debug\UnitTestTri.csprojResolveAssemblyReference.cache
 c:\Users\Loklok\documents\visual studio 2012\Projects\Tri\UnitTestTri\obj\Debug\UnitTestTri.dll
 c:\Users\Loklok\documents\visual studio 2012\Projects\Tri\UnitTestTri\obj\Debug\UnitTestTri.pdb
+C:\Users\Loklok\Documents\GitHub\Uppgift-1\Tri\UnitTestTri\bin\Debug\UnitTestTri.dll
+C:\Users\Loklok\Documents\GitHub\Uppgift-1\Tri\UnitTestTri\bin\Debug\UnitTestTri.pdb
+C:\Users\Loklok\Documents\GitHub\Uppgift-1\Tri\UnitTestTri\bin\Debug\Tri.exe
+C:\Users\Loklok\Documents\GitHub\Uppgift-1\Tri\UnitTestTri\bin\Debug\Tri.pdb
+C:\Users\Loklok\Documents\GitHub\Uppgift-1\Tri\UnitTestTri\obj\Debug\UnitTestTri.csprojResolveAssemblyReference.cache
+C:\Users\Loklok\Documents\GitHub\Uppgift-1\Tri\UnitTestTri\obj\Debug\UnitTestTri.dll
+C:\Users\Loklok\Documents\GitHub\Uppgift-1\Tri\UnitTestTri\obj\Debug\UnitTestTri.pdb

@@ -4,3 +4,6 @@ c:\users\loklok\documents\visual studio 2012\Projects\Tri\Tri\bin\Debug\Tri.pdb
 c:\users\loklok\documents\visual studio 2012\Projects\Tri\Tri\obj\Debug\Tri.csprojResolveAssemblyReference.cache
 c:\users\loklok\documents\visual studio 2012\Projects\Tri\Tri\obj\Debug\Tri.exe
 c:\users\loklok\documents\visual studio 2012\Projects\Tri\Tri\obj\Debug\Tri.pdb
+C:\Users\Loklok\Documents\GitHub\Uppgift-1\Tri\Tri\bin\Debug\Tri.exe.config
+C:\Users\Loklok\Documents\GitHub\Uppgift-1\Tri\Tri\obj\Debug\Tri.exe
+C:\Users\Loklok\Documents\GitHub\Uppgift-1\Tri\Tri\obj\Debug\Tri.pdb
